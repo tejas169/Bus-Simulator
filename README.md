@@ -1,4 +1,4 @@
-# SIT CS520 Programming Assignment 2
+# Bus Simulator
 
 ### Please solve the problems below.
 
