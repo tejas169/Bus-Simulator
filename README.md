@@ -2,9 +2,8 @@
 
 ### Please solve the problems below.
 
-1. Recall the Book (Operating System Concepts, 8th Edition) problems 5.3 and 5.12. Solve them now by writing the event-driven code. Your program must produce as an output the corresponding Gantt charts.
 
-2. Write a simulation of a (rather simplified) system of Figure 1. Create 10 jobs of random execution time with lengths uniformly distributed between 2 and 4 minutes (use the uniform distribution method for random number generation).
+1. Write a simulation of a (rather simplified) system of Figure 1. Create 10 jobs of random execution time with lengths uniformly distributed between 2 and 4 minutes (use the uniform distribution method for random number generation).
     * For each job, the times between I/O requests (i.e, CPU bursts) are distributed exponentially. The mean inter-I/O intervals for the jobs are respectively 30ms, 35ms, 40ms, 45ms, 50ms, 55ms, 60ms, 65ms, 70ms, and 75ms.
     * Each time an I/O is needed it takes precisely 60 ms
     * A job, once it enters the system, can be either in the Ready queue, or I/O Waiting queue, or it is being executed by the CPU.
