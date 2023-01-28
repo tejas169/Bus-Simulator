@@ -1,4 +1,4 @@
-# Bus Simulator
+# Simulator
 
 ### Please solve the problems below.
 
